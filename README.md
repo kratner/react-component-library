@@ -2,4 +2,4 @@
 
 _&copy; 2023 Keith Ratner_
 
-https://kratner.github.io/react-component-library/
+<a href="https://kratner.github.io/react-component-library/" target="_blank">Click Here to View Component Library</a>
